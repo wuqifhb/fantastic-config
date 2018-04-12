@@ -1,1 +1,1 @@
-#fantastic-config
+# fantastic-config
